@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfeatures-cellular-framework-AT-athandler.MbedOS.a  CMakeFiles/features-cellular-framework-AT-athandler.MbedOS.dir/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/features/cellular/framework/AT/ATHandler.cpp.o CMakeFiles/features-cellular-framework-AT-athandler.MbedOS.dir/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/features/cellular/framework/common/CellularUtil.cpp.o
+/usr/bin/ranlib libfeatures-cellular-framework-AT-athandler.MbedOS.a

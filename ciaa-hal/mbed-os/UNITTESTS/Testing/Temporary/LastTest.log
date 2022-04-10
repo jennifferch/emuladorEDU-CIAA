@@ -1,0 +1,54 @@
+Start testing: Feb 25 21:07 -05
+----------------------------------------------------------
+1/2 Testing: drivers-gpio
+1/2 Test: drivers-gpio
+Command: "/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/UNITTESTS/drivers-gpio"
+Directory: /home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/UNITTESTS
+"drivers-gpio" start time: Feb 25 21:07 -05
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from AddTest
+[ RUN      ] AddTest.myapp_get_average
+[       OK ] AddTest.myapp_get_average (0 ms)
+[----------] 1 test from AddTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"drivers-gpio" end time: Feb 25 21:07 -05
+"drivers-gpio" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: platform-CircularBuffer
+2/2 Test: platform-CircularBuffer
+Command: "/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/UNITTESTS/platform-CircularBuffer"
+Directory: /home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/UNITTESTS
+"platform-CircularBuffer" start time: Feb 25 21:07 -05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TestCircularBuffer
+[ RUN      ] TestCircularBuffer.constructor
+[       OK ] TestCircularBuffer.constructor (0 ms)
+[----------] 1 test from TestCircularBuffer (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"platform-CircularBuffer" end time: Feb 25 21:07 -05
+"platform-CircularBuffer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 25 21:07 -05

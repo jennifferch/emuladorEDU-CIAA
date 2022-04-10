@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../features/netsocket/WiFiAccessPoint.h
+string.h
+-
+netsocket/nsapi_types.h
+../features/netsocket/netsocket/nsapi_types.h
+
+../features/netsocket/nsapi_types.h
+stdint.h
+-
+
+/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/features/netsocket/WiFiAccessPoint.cpp
+netsocket/WiFiAccessPoint.h
+/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/features/netsocket/netsocket/WiFiAccessPoint.h
+

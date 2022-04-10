@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfeatures-lorawan-loraphycn470.MbedOS.a  CMakeFiles/features-lorawan-loraphycn470.MbedOS.dir/home/jenny/Documents/UBA/Tesis/ciaa-simulator/ciaa-hal/mbed-os/features/lorawan/lorastack/phy/LoRaPHYCN470.cpp.o
+/usr/bin/ranlib libfeatures-lorawan-loraphycn470.MbedOS.a
