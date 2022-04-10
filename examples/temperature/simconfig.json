@@ -1,0 +1,6 @@
+{
+    "peripherals": [
+        { "component": "Lcd", "args": { "MOSI": "PinNames.SPI_MOSI", "MISO": "PinNames.SPI_MISO", "SCK": "PinNames.SPI_SCK" } },
+        { "component": "dht11", "args": { "SDA/SDI": "PinNames.GND", "SIGNAL": "PinNames.GPIO1",  "VCC": "3V3"} }
+    ]
+}
