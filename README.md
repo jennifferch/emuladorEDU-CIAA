@@ -2,15 +2,15 @@
 
 ### Prerequisites
 
-1. Install [Mbed CLI](https://github.com/ARMmbed/mbed-cli).
-1. Install [Python 2.7](https://www.python.org/downloads/windows/).
-1. Install [Node.js](https://nodejs.org/en/) v8 or higher.
-1. Install [Emscripten](https://github.com/emscripten-core/emsdk.git) versión 1.38.21.
+1. Instalar [Mbed CLI](https://github.com/ARMmbed/mbed-cli).
+1. Instalar [Python 2.7](https://www.python.org/downloads/windows/).
+1. Instalar [Node.js](https://nodejs.org/en/) v8 or higher.
+1. Instalar [Emscripten](https://github.com/emscripten-core/emsdk.git) versión 1.38.21.
 
 
 ### Instalación
 
-1. Install the simulator through git:
+1. Seguir los siguientes pasos:
 
     ```
     $ npm install
